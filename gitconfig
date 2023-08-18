@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = b.anneflore@yahoo.fr
+	name = Anne Flore Bernard
